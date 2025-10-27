@@ -17,8 +17,8 @@ Este trabalho foi publicado integralmente como artigo científico na **Revista C
 Interface web responsiva para visualização dos dados dos sensores:
 
 <p align="center">
-  <img src="./imgs/site/grafico_site.png" width="50%">
-  <img src="./imgs/site/grafico_site_2.png" width="50%">
+  <img src="./imgs/grafico_site.png" width="50%">
+  <img src="./imgs/grafico_site_2.png" width="50%">
 </p>
 
 ---
